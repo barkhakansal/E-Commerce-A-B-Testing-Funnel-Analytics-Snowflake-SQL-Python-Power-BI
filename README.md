@@ -3,13 +3,13 @@
 This project analyzes ecommerce A/B testing performance using customer event, transaction, and campaign data. The objective was to evaluate whether experiment variants improved customer conversion, funnel efficiency, and revenue generation compared to the Control experience.
 
 # 2. Tech Stack
-Snowflake
-SQL
-Python
-Power BI
-SciPy
-Window Functions
-Bronze–Silver–Gold Data Modeling
+- Snowflake
+- SQL
+- Python
+- Power BI
+- SciPy
+- Window Functions
+- Bronze–Silver–Gold Data Modeling
 
 # 3. Dataset
 
