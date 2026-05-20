@@ -98,9 +98,9 @@ Neither Variant_A nor Variant_B produced statistically significant improvements 
 
 # 8. Key Results
       Metric	              Best Performer
-- Conversion Rate	             Variant_B
-- Revenue/User	               Variant_B
-- Funnel Conversion	           Control
+ Conversion Rate	               Variant_B
+ Revenue/User	               Variant_B
+ Funnel Conversion	         Control
 
 # 9. Final Business Recommendation
 
