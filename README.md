@@ -97,7 +97,7 @@ Performed chi-square significance testing in Python using SciPy.
 Neither Variant_A nor Variant_B produced statistically significant improvements over the Control group.
 
 # 8. Key Results
-- Metric	              |  Best Performer
+      Metric	              Best Performer
 - Conversion Rate	             Variant_B
 - Revenue/User	               Variant_B
 - Funnel Conversion	           Control
